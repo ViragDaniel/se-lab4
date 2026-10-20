@@ -1,0 +1,3 @@
+# A GT4500 SINGLE módban vált ha üres
+GT4500,0,0,1,0
+TORPEDO,SINGLE

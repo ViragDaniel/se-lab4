@@ -1,0 +1,4 @@
+# A GT4500 nem lő, ha nincs torpedója
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL
